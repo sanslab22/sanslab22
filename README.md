@@ -1,4 +1,4 @@
-<h1 align = "center" >Sanjana Arun</h1>
+<h1 align = "center" >Sanjana</h1>
 
 ### 🏫 I am a Computer Science student interested in Data Analytics and AI/ML. 
 ### 🤔 I am always seeking new opportunities to apply my skills and knowledge to real-world problems.
