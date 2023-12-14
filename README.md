@@ -1,7 +1,7 @@
 <h1 align = "center" >Sanjana Arun</h1>
 
-# 🏫 I am a Computer Science student interested in Data Analytics and AI/ML. 
-# 🤔 I am always seeking new opportunities to apply my skills and knowledge to real-world problems.
+### 🏫 I am a Computer Science student interested in Data Analytics and AI/ML. 
+### 🤔 I am always seeking new opportunities to apply my skills and knowledge to real-world problems.
 
 <!--
 **sanslab22/sanslab22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
