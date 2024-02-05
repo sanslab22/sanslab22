@@ -26,6 +26,22 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+# WhatsApp
+- [ ] Users can customize their chat background
+- [ ] Users can create add their own stickers
+
+# Instagram
+- [ ] Users can customize background color on message screen
+- [ ] Users can delete message
+- [ ] Users can have disappearing chat
+
+# Notes
+- [ ] Users can scan documents and save it as a pdf
+- [ ] The ability to modify font size
+- [ ] Users can create various types of lists
+
+# As someone that loves cooking and trying out different recipies, I want to create an app that generates recipie ideas based on the produce that the user has. It should have a feature where users can choose their preferred cuisine, spice level and portion size. It would be great if users also have the ability to save their own reciepies on the app, like a recipie book.  
+
 ## Notes
 
 Describe any challenges encountered while building the app.
