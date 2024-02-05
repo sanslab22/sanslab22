@@ -40,7 +40,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - [ ] The ability to modify font size
 - [ ] Users can create various types of lists
 
-# As someone that loves cooking and trying out different recipies, I want to create an app that generates recipie ideas based on the produce that the user has. It should have a feature where users can choose their preferred cuisine, spice level and portion size. It would be great if users also have the ability to save their own reciepies on the app, like a recipie book.  
+### As someone that loves cooking and trying out different recipies, I want to create an app that generates recipie ideas based on the produce that the user has. It should have a feature where users can choose their preferred cuisine, spice level and portion size. It would be great if users also have the ability to save their own reciepies on the app, like a recipie book.  
 
 ## Notes
 
