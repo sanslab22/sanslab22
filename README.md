@@ -26,16 +26,16 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
-# WhatsApp
+### WhatsApp
 - [ ] Users can customize their chat background
 - [ ] Users can create add their own stickers
 
-# Instagram
+### Instagram
 - [ ] Users can customize background color on message screen
 - [ ] Users can delete message
 - [ ] Users can have disappearing chat
 
-# Notes
+### Notes
 - [ ] Users can scan documents and save it as a pdf
 - [ ] The ability to modify font size
 - [ ] Users can create various types of lists
