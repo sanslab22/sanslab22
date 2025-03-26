@@ -13,4 +13,16 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# 👋 Welcome to my profile!
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanslab22&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+## 🔥 GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanslab22&theme=dark&hide_border=true)
+
+## 📈 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanslab22&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 -->
