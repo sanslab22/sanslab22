@@ -1,19 +1,8 @@
 <h1 align="center">Sanjana</h1>
 
 <p align="center">
-Computer Science student passionate about Data Analytics and AI/ML.<br>
 Always seeking opportunities to apply my skills to real-world problems.
 </p>
-
----
-
-### 🌟 About Me
-- 🔭 Currently working on: Personal projects in data analytics & full-stack development  
-- 🌱 Currently learning: Machine Learning, SQL optimization, and cloud basics  
-- 👯 Open to collaborate on: AI/ML, data analytics, and web applications  
-- 💬 Ask me about: Python, Java, SQL, React, or career prep  
-- 📫 Reach me at: *your email / LinkedIn here*  
-- ⚡ Fun fact: I moved from India to the U.S. and built confidence through tech!
 
 ---
 
